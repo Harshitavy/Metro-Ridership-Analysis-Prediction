@@ -10,7 +10,7 @@ preprocessing steps such as handling missing values, formatting timestamps,
 and feature extraction are performed to ensure the dataset is clean and suitable
 for time-series modeling.
 
-About the Dataset
+About the Dataset: 
 The Delhi Metro is a rapid transit system serving the National Capital Region (NCR) of India. It plays a crucial role in reducing traffic congestion and providing sustainable public transportation to millions of passengers every day.
 This dataset captures multiple performance indicators of the Delhi Metro network over time, including:
 Total metro trips operated
