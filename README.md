@@ -37,3 +37,12 @@ Passengers_per_Trip	Ridership divided by number of trips
 Revenue_Ticket	Ticket revenue per trip
 Ticket_Type (optional)	Type of ticket or trip category
 Top_Stations	Highest-demand stations on that day
+
+Expected Impact:
+🚀 Real-time passenger flow predictions for dynamic train frequency adjustments.
+
+🚀 Reduced overcrowding through optimized train deployment.
+
+🚀 Improved service efficiency and commuter satisfaction using data-driven strategies.
+
+With this AI-powered approach, we aim to create a smarter, more efficient Delhi Metro system for millions of daily commuters. 🚇✨
